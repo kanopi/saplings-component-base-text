@@ -1,0 +1,15 @@
+name: 'Saplings - Text Component'
+description: 'Base configuration for Saplings Text component'
+type: 'Site'
+install:
+  # Core.
+  # - example
+  # Contrib.
+  # - example
+config:
+  import:
+    # Core.
+    # module_name:
+    # field_ui: '*'
+    # Contrib.
+    # paragraphs: "*"

@@ -1,0 +1,16 @@
+{
+    "name": "kanopi/saplings-component-text",
+    "description": "Base configuration for Saplings Text component.",
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Kerry Murphy",
+            "homepage": "https://kanopi.com",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "kanopi/saplings-component-base": "^0.0.1"
+     }
+}
